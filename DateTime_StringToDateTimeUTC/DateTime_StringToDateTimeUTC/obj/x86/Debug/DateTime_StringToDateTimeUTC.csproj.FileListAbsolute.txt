@@ -1,0 +1,5 @@
+c:\users\dhavlev\documents\visual studio 2010\Projects\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\bin\Debug\DateTime_StringToDateTimeUTC.exe
+c:\users\dhavlev\documents\visual studio 2010\Projects\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\bin\Debug\DateTime_StringToDateTimeUTC.pdb
+c:\users\dhavlev\documents\visual studio 2010\Projects\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dhavlev\documents\visual studio 2010\Projects\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\obj\x86\Debug\DateTime_StringToDateTimeUTC.exe
+c:\users\dhavlev\documents\visual studio 2010\Projects\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\obj\x86\Debug\DateTime_StringToDateTimeUTC.pdb
