@@ -13,7 +13,9 @@ namespace DateTime_StringToDateTimeUTC
         {
             string dt = "30/9/2013 10:43 AM";
             DateTime dtime = new DateTime();
-            dtime = DateTime.Parse(dt).ToUniversalTime();         
+            dtime = DateTime.Parse(dt).ToUniversalTime();
+         
+            //This is my new line
         }
     }
 }
