@@ -5,3 +5,5 @@ c:\users\dhavlev\documents\visual studio 2010\Projects\DateTime_StringToDateTime
 c:\users\dhavlev\documents\visual studio 2010\Projects\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\obj\x86\Debug\DateTime_StringToDateTimeUTC.pdb
 C:\Users\dhavlev\Documents\GitHub\MyRepository\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\obj\x86\Debug\DateTime_StringToDateTimeUTC.exe
 C:\Users\dhavlev\Documents\GitHub\MyRepository\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\obj\x86\Debug\DateTime_StringToDateTimeUTC.pdb
+C:\Users\dhavalev\Documents\GitHub\MyRepository\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\obj\x86\Debug\DateTime_StringToDateTimeUTC.exe
+C:\Users\dhavalev\Documents\GitHub\MyRepository\DateTime_StringToDateTimeUTC\DateTime_StringToDateTimeUTC\obj\x86\Debug\DateTime_StringToDateTimeUTC.pdb
